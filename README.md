@@ -1,2 +1,2 @@
-# PBRApp
-streamlit app for PBR filter
+# Digital Grain Size - Online
+streamlit app for pyDGS
